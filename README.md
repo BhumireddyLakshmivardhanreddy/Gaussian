@@ -14,10 +14,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Then print the program with correct form then the output will display.
 
 ## Program:
-```
+```python
 Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by: KAVINRAJA D
-RegisterNumber: 22007928
+Developed by:BHUMIREDDY LAKSHMI VARDHAN REDDY
+RegisterNumber: 23009662
 import numpy as np
 import sys
 n=int(input())
